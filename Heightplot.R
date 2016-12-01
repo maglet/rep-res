@@ -1,4 +1,5 @@
-#download the file
+#an introductory statement
+
 download.file(url = "http://libguides.colostate.edu/ld.php?content_id=27156359",
               destfile = "ex1.csv", 
               method="libcurl")
